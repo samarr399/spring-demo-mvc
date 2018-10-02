@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<form action="use-model" method="GET">
+<form action="hello/use-model-two" method="GET">
 	<input type="text" name="studentName">
 	<input type="submit" value="submit" />
 </form>
